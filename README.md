@@ -13,3 +13,4 @@ This highlights the advantages of transformer architectures for text classificat
 <br>
 The results also show that for data with clean, well-balanced labels - such as the IMDB dataset - simple and efficient models work surprisingly well and may be suited for resource-constrained environments or use cases requiring low latency.
 
+**This project was created as an assignment for the course "Natural Language Processing" at the University of Tübingen.**
